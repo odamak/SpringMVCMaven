@@ -10,7 +10,7 @@
 		<input type="text" name="studentName"
 		placeholder="What's your name?" />
 		
-		<input button="submit" type="submit" />
+		<input type="submit" value="Submit" />
 		
 	</form>
 </body>
